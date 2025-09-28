@@ -1,7 +1,7 @@
 # **IMAGEN4-AIO**
 
-<img width="1120" height="830" alt="Screenshot 2025-09-28 at 15-56-02 IMAGEN4 AIO" src="https://github.com/user-attachments/assets/7437ed08-0c47-4188-a47a-5e7a684b684d" />
-<img width="1186" height="826" alt="Screenshot 2025-09-28 at 15-51-53 IMAGEN4 AIO" src="https://github.com/user-attachments/assets/988d4f75-d333-4959-a225-63628fc5514b" />
+| ![Screenshot 1](https://github.com/user-attachments/assets/7437ed08-0c47-4188-a47a-5e7a684b684d) | ![Screenshot 2](https://github.com/user-attachments/assets/988d4f75-d333-4959-a225-63628fc5514b) |
+|---|---|
 
 # Gemini App Proxy Server
 
